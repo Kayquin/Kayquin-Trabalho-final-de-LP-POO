@@ -2,7 +2,7 @@
 
 Este é um projeto de implementação de um sistema de vendas em Java, com interface gráfica usando Swing. O sistema permite que os usuários visualizem uma vitrine de produtos, adicionem itens ao carrinho, visualizem o carrinho, realizem o pagamento e efetuem o logout.
 
-[![Logomarca da Loja](TrendyLooks/imagens/LogoLoja.png)](https://raw.githubusercontent.com/lucas-novaesm/Trabalho-final-de-LP-POO/main/TrendyLooks/imagens/LogoLoja.png)
+![Logomarca da Loja](TrendyLooks/imagens/LogoLoja.png)]
 
 ## Funcionalidades:
 
@@ -46,6 +46,11 @@ Este é um projeto de implementação de um sistema de vendas em Java, com inter
 
 ## Diagrama de Classes 📊
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/lucas-novaesm/Trabalho-final-de-LP-POO/main/urbanTrends/imagens/diagrama.jpg">
+    <img src="https://github.com/Kayquin/Kayquin-Trabalho-final-de-LP-POO/assets/104329791/dd42faeb-b24f-4f5c-b5fc-9287653abe72" alt="Diagrama de Classes" width="900" />
+  </a>
+</p>
 
 ## Como Rodar o Projeto ▶️:
 
