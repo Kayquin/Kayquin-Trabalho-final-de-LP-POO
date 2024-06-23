@@ -4,7 +4,7 @@ Este é um projeto de implementação de um sistema de vendas em Java, com inter
 
 [![Logomarca da Loja](TrendyLooks/imagens/LogoLoja.png)](https://raw.githubusercontent.com/lucas-novaesm/Trabalho-final-de-LP-POO/main/TrendyLooks/imagens/LogoLoja.png)
 
-## Funcionalidades:q
+## Funcionalidades:
 
 ### Tela de Vitrine de Produtos 🛍️:
 
